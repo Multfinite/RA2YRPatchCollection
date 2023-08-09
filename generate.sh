@@ -18,9 +18,9 @@ eval "\"${INIMerger}\" -tron \"${Output}/gm_invasion_fleet_patch_yss.ini\" \"${O
 eval "\"${INIMerger}\" -tron \"${Output}/gm_invasion_ra2.ini\" \"${Output}/gm_invasion.ini\" mode_ra2.ini buff_paradrop_ra2.ini"
 eval "\"${INIMerger}\" -tron \"${Output}/gm_invasion_fleet_patch_ra2.ini\" \"${Output}/gm_invasion_fleet_patch.ini\" mode_ra2.ini buff_paradrop_ra2.ini"
 eval "\"${INIMerger}\" -tron \"${Output}/gm_invasion_ra2plus.ini\" \"${Output}/gm_invasion.ini\" mode_ra2plus.ini buff_paradrop_ra2.ini"
-eval "\"${INIMerger}\" -tron \"${Output}/gm_invasion_fleet_patch_ra2plus.ini\" \"${Output}/gm_invasion_fleet_patch.ini\" mode_ra2plus.ini buff_paradrop_ra2.ini"
-eval "\"${INIMerger}\" -tron \"${Output}/gm_invasion_ra2plus_no_factions.ini\" \"${Output}/gm_invasion.ini\" mode_ra2plus_no_factions.ini buff_paradrop_ra2.ini"
-eval "\"${INIMerger}\" -tron \"${Output}/gm_invasion_fleet_patch_ra2plus_no_factions.ini\" \"${Output}/gm_invasion_fleet_patch.ini\" mode_ra2plus_no_factions.ini buff_paradrop_ra2.ini"
+eval "\"${INIMerger}\" -tron \"${Output}/gm_invasion_fleet_patch_ra2plus.ini\" \"${Output}/gm_invasion_fleet_patch.ini\" mode_ra2plus.ini"
+eval "\"${INIMerger}\" -tron \"${Output}/gm_invasion_ra2plus_no_factions.ini\" \"${Output}/gm_invasion.ini\" mode_ra2plus_no_factions.ini"
+eval "\"${INIMerger}\" -tron \"${Output}/gm_invasion_fleet_patch_ra2plus_no_factions.ini\" \"${Output}/gm_invasion_fleet_patch.ini\" mode_ra2plus_no_factions.ini"
 
 
 echo "=======DONE======="
