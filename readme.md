@@ -9,6 +9,8 @@ This is just a set of RA2YR balance edits: nerfs, buffs, edits, modes
 
 ### How to use
 
+***Please, look at generate.sh file.** (at windows you can use command: 'sh ./generatesh' in PowerShell).*
+
 First of all, you need the ini merge utility (and briefings gen maybe). Read readme.md for them.
 
 > https://github.com/Multfinite/INIMerger
